@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer 
 
-- 👨‍💻 I code in `.js`, `.ts`, `.py`
+- 👨‍💻 I code in `.js`, `.ts`, `.go`, `.py`
 - 💻 Frameworks I use are React, Nextjs, Svelte, FastAPI & TailwindCSS
 - ⭐️ Working on some side projects based on Web Development
 - 📚 I’m currently learning algorithms & data structures
